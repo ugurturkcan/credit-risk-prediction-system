@@ -1,0 +1,27 @@
+# --- SİSTEM VE IDE ÇÖPLERİ ---
+.DS_Store
+.idx/
+.vscode/
+.idea/
+
+# --- PYTHON (BACKEND) ---
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.log
+
+# --- FLUTTER (FRONTEND) ---
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+pubspec.lock
+
+# --- GEÇİCİ DOSYALAR VE YEDEKLER ---
+*.zip
+*.tar.gz
+firebase-debug.log
+devserver.sh
+GEMINI.md
